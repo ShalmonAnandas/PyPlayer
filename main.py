@@ -44,6 +44,8 @@ if media_selector == 1:
     webbrowser.open("https://fsapi.xyz/tmdb-movie/" + str(id_list[play]))
 elif media_selector == 2:
     play = int(input("\nSelect a Show [type number]: "))
-    season_number = input("Type the Season number: ")
-    episode_number = input("Type the episode number: ")
+    os.system("cls")
+    season_number = input("Season Number: ")
+    os.system("cls")
+    episode_number = input("Episode Number: ")
     webbrowser.open("https://fsapi.xyz/tv-tmdb/" + str(id_list[play]) + "-" + season_number + "-" + episode_number)
