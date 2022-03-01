@@ -2,9 +2,10 @@
 Just plays shows and movies innit
 
 ## Intructions:
-1. Run the windows executable or the linux binary
-2. Follow the instructions on screen
-3. Watch movie
+1. Run the windows executable or the linux binary 
+2. cloning the git repo and running the python file directly is recommended in the case of linux users due to a bug in the packaging tool I use
+3. Follow the instructions on screen
+4. Watch movie
 
 ## Thanks to:
 ### [FSAPI](https://fsapi.xyz/)
