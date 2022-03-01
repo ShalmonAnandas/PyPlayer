@@ -9,3 +9,15 @@ Just plays shows and movies innit
 ## Thanks to:
 ### [FSAPI](https://fsapi.xyz/)
 ### [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
+
+## Dev Goals:
+- ~~Get TMDB API working~~
+- ~~Find a way to parse the query~~
+- ~~Bang head against wall figuring out why shit works and why it doesnt~~
+- ~~Make this way harder than it is supposed to be~~
+- ~~Make it simpler~~
+- ~~Initial release~~
+- ~~Different prompts for movies and shows~~
+- Support to see how many seasons and episodes are there
+- Maybe a GUI?
+- Profit????
