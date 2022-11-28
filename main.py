@@ -41,11 +41,12 @@ elif media_selector == 2:
 
 if media_selector == 1:
     play = int(input("\nSelect a movie [type number]: "))
-    webbrowser.open("https://fsapi.xyz/tmdb-movie/" + str(id_list[play]))
+    print(id_list[play])
+    webbrowser.open("https://vidsrc.me/embed/" + str(id_list[play]))
 elif media_selector == 2:
     play = int(input("\nSelect a Show [type number]: "))
     os.system("cls")
     season_number = input("Season Number: ")
     os.system("cls")
     episode_number = input("Episode Number: ")
-    webbrowser.open("https://fsapi.xyz/tv-tmdb/" + str(id_list[play]) + "-" + season_number + "-" + episode_number)
+    webbrowser.open("https://vidsec.me/embed/" + str(id_list[play]) + "-" + season_number + "-" + episode_number)
