@@ -8,7 +8,8 @@ Just plays shows and movies innit
 4. Watch movie
 
 ## Thanks to:
-### [FSAPI](https://fsapi.xyz/)
+### ~~[FSAPI](https://fsapi.xyz/)~~
+### [VidSrc](https://vidsrc.me/)
 ### [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
 
 ## Dev Goals:
