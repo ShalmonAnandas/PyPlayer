@@ -1,4 +1,4 @@
-# PyPlayerFSAPI
+# PyPlayer
 Just plays shows and movies innit
 
 ## Intructions:
