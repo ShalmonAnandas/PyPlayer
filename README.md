@@ -1,5 +1,5 @@
 # PyPlayer
-Movie / TV Show scraper in <50 lines of code
+Plays Movies / TV Shows in your browser in <50 lines of code
 
 ## Install Intructions:
 1. Run the windows executable or the linux binary 
